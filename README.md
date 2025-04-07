@@ -1,4 +1,4 @@
-# 🎫 Support tickets template
+# 🎫 kima them all!
 
 A simple Streamlit app showing an internal tool that lets you create, manage, and visualize support tickets. 
 
